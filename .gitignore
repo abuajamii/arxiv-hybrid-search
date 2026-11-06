@@ -1,6 +1,6 @@
 .venv/
 __pycache__/
 *.pyc
-data/pdfs/
 .DS_Store
 .ipynb_checkpoints/
+embeddings_*.npy
